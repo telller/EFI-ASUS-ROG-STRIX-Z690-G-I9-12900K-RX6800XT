@@ -477,13 +477,13 @@
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
-			<integer>255</integer>
+			<integer>17</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -674,7 +674,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
+			<string>Mac-27AD2F918AE68F61</string>
 			<key>BoardRevision</key>
 			<data>CQ==</data>
 			<key>DevicePathsSupported</key>
@@ -688,28 +688,28 @@
 			<key>SmcBranch</key>
 			<data></data>
 			<key>SmcPlatform</key>
-			<data>ajEzNwAAAAA=</data>
+			<data>ajE2MAAAAAA=</data>
 			<key>SmcRevision</key>
 			<data></data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T5UZZHX87</string>
+			<string>F5KYLLYCP7QM</string>
 			<key>SystemUUID</key>
-			<string>7D84169C-1B26-4153-A840-9A8F38863E4F</string>
+			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<true/>
+			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02704401CDJG361F</string>
+			<string>F5K916270GUFHDDJC</string>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>3842</integer>
 			<key>ROM</key>
 			<data>Jx1+aEw/</data>
 			<key>SpoofVendor</key>
@@ -717,37 +717,37 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T5UZZHX87</string>
+			<string>F5KYLLYCP7QM</string>
 			<key>SystemUUID</key>
-			<string>7D84169C-1B26-4153-A840-9A8F38863E4F</string>
+			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
+			<string>Mac-27AD2F918AE68F61</string>
 			<key>FirmwareFeatures</key>
-			<data>PvWP/QgAAAA=</data>
+			<data>ZvCv/QgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/+f/wgAAAA=</data>
+			<data>f////wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02704401CDJG361F</string>
+			<string>F5K916270GUFHDDJC</string>
 			<key>ROM</key>
 			<data>Jx1+aEw/</data>
 			<key>SystemSerialNumber</key>
-			<string>C02T5UZZHX87</string>
+			<string>F5KYLLYCP7QM</string>
 			<key>SystemUUID</key>
-			<string>7D84169C-1B26-4153-A840-9A8F38863E4F</string>
+			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>05/21/2022</string>
+			<string>10/05/2023</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1916.0.3.0.0</string>
+			<string>2020.41.1.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -755,45 +755,45 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
+			<string>Mac-27AD2F918AE68F61</string>
 			<key>BoardSerialNumber</key>
-			<string>C02704401CDJG361F</string>
+			<string>F5K916270GUFHDDJC</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>ChassisAssetTag</key>
-			<string>Asset Tag#</string>
+			<string></string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02T5UZZHX87</string>
+			<string>F5KYLLYCP7QM</string>
 			<key>ChassisType</key>
-			<integer>13</integer>
+			<integer>7</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
+			<string>Mac-27AD2F918AE68F61</string>
 			<key>FirmwareFeatures</key>
-			<data>PvWP/QgAAAA=</data>
+			<data>ZvCv/QgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/+f/wgAAAA=</data>
+			<data>f////wgAAAA=</data>
 			<key>PlatformFeature</key>
-			<integer>32</integer>
+			<integer>0</integer>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>3842</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
-			<string>iMac</string>
+			<string>MacPro</string>
 			<key>SystemManufacturer</key>
 			<string></string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T5UZZHX87</string>
+			<string>F5KYLLYCP7QM</string>
 			<key>SystemUUID</key>
-			<string>7D84169C-1B26-4153-A840-9A8F38863E4F</string>
+			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
