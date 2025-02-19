@@ -181,6 +181,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>AMFIPass.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AMFIPass</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -192,6 +210,60 @@
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>IOSkywalkFamily.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/IOSkywalkFamily</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>23.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>IO80211FamilyLegacy.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/IO80211FamilyLegacy</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>23.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>IO80211FamilyLegacy.kext/Contents/PlugIns/AirPortBrcmNIC.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirPortBrcmNIC</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>23.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -377,7 +449,24 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Comment</key>
+				<string>Allow IOSkywalk Downgrade</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Identifier</key>
+				<string>com.apple.iokit.IOSkywalkFamily</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>23.0.0</string>
+				<key>Strategy</key>
+				<string>Exclude</string>
+			</dict>
+		</array>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
@@ -609,7 +698,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>/w8AAA==</data>
+				<data>AwgAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -696,9 +785,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KYLLYCP7QM</string>
+			<string>F5KYP0HEP7QM</string>
 			<key>SystemUUID</key>
-			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
+			<string>3C0C01C5-4B26-4B06-AA2B-BA8B11D004A1</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -707,7 +796,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K916270GUFHDDJC</string>
+			<string>F5K919100CDFHDDA8</string>
 			<key>ProcessorType</key>
 			<integer>3842</integer>
 			<key>ROM</key>
@@ -719,9 +808,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KYLLYCP7QM</string>
+			<string>F5KYP0HEP7QM</string>
 			<key>SystemUUID</key>
-			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
+			<string>3C0C01C5-4B26-4B06-AA2B-BA8B11D004A1</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -732,13 +821,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f////wgAAAA=</data>
 			<key>MLB</key>
-			<string>F5K916270GUFHDDJC</string>
+			<string>F5K919100CDFHDDA8</string>
 			<key>ROM</key>
 			<data>Jx1+aEw/</data>
 			<key>SystemSerialNumber</key>
-			<string>F5KYLLYCP7QM</string>
+			<string>F5KYP0HEP7QM</string>
 			<key>SystemUUID</key>
-			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
+			<string>3C0C01C5-4B26-4B06-AA2B-BA8B11D004A1</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -757,7 +846,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-27AD2F918AE68F61</string>
 			<key>BoardSerialNumber</key>
-			<string>F5K916270GUFHDDJC</string>
+			<string>F5K919100CDFHDDA8</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -767,7 +856,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>F5KYLLYCP7QM</string>
+			<string>F5KYP0HEP7QM</string>
 			<key>ChassisType</key>
 			<integer>7</integer>
 			<key>ChassisVersion</key>
@@ -791,9 +880,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KYLLYCP7QM</string>
+			<string>F5KYP0HEP7QM</string>
 			<key>SystemUUID</key>
-			<string>D689F298-C2F3-4228-8ABF-A08E129409FA</string>
+			<string>3C0C01C5-4B26-4B06-AA2B-BA8B11D004A1</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
