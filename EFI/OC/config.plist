@@ -459,9 +459,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-			<string>\EFI\Microsoft\Boot\bootmgfw.efi</string>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -515,26 +513,7 @@
 			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Flavour</key>
-				<string>Auto</string>
-				<key>Name</key>
-				<string>Windows</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x6,0x0)/Pci(0x0,0x0)/NVMe(0x1,F0-19-C1-11-BA-38-25-00)/HD(1,GPT,491898C1-F7D4-4DA5-9E43-ABF918675333,0x28,0x64000) /\EFI\Microsoft\boot\bootmgfw-orig.efi</string>
-				<key>TextMode</key>
-				<false/>
-			</dict>
-		</array>
+		<array/>
 		<key>Security</key>
 		<dict>
 			<key>AllowSetDefault</key>
@@ -558,7 +537,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>2687747</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
@@ -946,7 +925,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
@@ -1126,6 +1105,8 @@
 				<string>RuntimeCode</string>
 			</dict>
 		</array>
+		<key>Unload</key>
+		<array/>
 	</dict>
 </dict>
 </plist>
