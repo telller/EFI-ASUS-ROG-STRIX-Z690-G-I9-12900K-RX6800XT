@@ -558,7 +558,7 @@
 			<key>HibernateSkipsPicker</key>
 			<true/>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>InstanceIdentifier</key>
 			<string></string>
 			<key>LauncherOption</key>
@@ -694,7 +694,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v alcid=12 watchdog=0 agdpmod=pikera dk.e1000=0 e1000=0</string>
+				<string>alcid=12 watchdog=0 agdpmod=pikera dk.e1000=0 e1000=0  amfi=0x80</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -757,7 +757,7 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<false/>
+		<true/>
 		<key>DataHub</key>
 		<dict>
 			<key>ARTFrequency</key>
@@ -812,6 +812,242 @@
 			<key>SystemUUID</key>
 			<string>3C0C01C5-4B26-4B06-AA2B-BA8B11D004A1</string>
 		</dict>
+		<key>Memory</key>
+        <dict>
+            <key>DataWidth</key>
+            <integer>64</integer>
+            <key>ErrorCorrection</key>
+            <integer>4</integer>
+            <key>FormFactor</key>
+            <integer>9</integer>
+            <key>MaxCapacity</key>
+            <integer>34359738368</integer>
+            <key>TotalWidth</key>
+            <integer>64</integer>
+            <key>Type</key>
+            <integer>26</integer>
+            <key>TypeDetail</key>
+            <integer>21</integer>
+            <key>Devices</key>
+            <array>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_A1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string>0</string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_A2</string>
+                    <key>Manufacturer</key>
+                    <string>G Skill Intl</string>
+                    <key>PartNumber</key>
+                    <string>F5-6000J3636F16G</string>
+                    <key>SerialNumber</key>
+                    <string>F5KYP0HEP7QM</string>
+                    <key>Size</key>
+                    <integer>16384</integer>
+                    <key>Speed</key>
+                    <integer>4800</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_B1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string>0</string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_B2</string>
+                    <key>Manufacturer</key>
+                    <string>G Skill Intl</string>
+                    <key>PartNumber</key>
+                    <string>F5-6000J3636F16G</string>
+                    <key>SerialNumber</key>
+                    <string>F5KYP0HEP7QM</string>
+                    <key>Size</key>
+                    <integer>16384</integer>
+                    <key>Speed</key>
+                    <integer>4800</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_C1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_C2</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_D1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_D2</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_E1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_E2</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_F1</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+                <dict>
+                    <key>AssetTag</key>
+                    <string></string>
+                    <key>BankLocator</key>
+                    <string></string>
+                    <key>DeviceLocator</key>
+                    <string>DIMM_F2</string>
+                    <key>Manufacturer</key>
+                    <string></string>
+                    <key>PartNumber</key>
+                    <string></string>
+                    <key>SerialNumber</key>
+                    <string></string>
+                    <key>Size</key>
+                    <integer>1</integer>
+                    <key>Speed</key>
+                    <integer>1</integer>
+                </dict>
+            </array>
+        </dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
