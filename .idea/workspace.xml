@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c88afa00-4ed7-4ed8-bc23-01dfa9b76e2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/EFI/BOOT/.contentFlavour" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/BOOT/.contentFlavour" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/BOOT/.contentVisibility" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/BOOT/.contentVisibility" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/BOOT/BOOTx64.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/BOOT/BOOTx64.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/.contentFlavour" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/.contentFlavour" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/.contentVisibility" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/.contentVisibility" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/ArpDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/ArpDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/AudioDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/AudioDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/BiosVideo.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/BiosVideo.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/CrScreenshotDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/CrScreenshotDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Dhcp4Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Dhcp4Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Dhcp6Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Dhcp6Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/DnsDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/DnsDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/DpcDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/DpcDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Ext4Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Ext4Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/FirmwareSettingsEntry.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/FirmwareSettingsEntry.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Hash2DxeCrypto.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Hash2DxeCrypto.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/HiiDatabase.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/HiiDatabase.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/HttpBootDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/HttpBootDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/HttpDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/HttpDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/HttpUtilitiesDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/HttpUtilitiesDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Ip4Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Ip4Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Ip6Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Ip6Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/MnpDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/MnpDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Mtftp4Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Mtftp4Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Mtftp6Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Mtftp6Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/NvmExpressDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/NvmExpressDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenCanopy.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenCanopy.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenLegacyBoot.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenLegacyBoot.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenLinuxBoot.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenLinuxBoot.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenNetworkBoot.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenNetworkBoot.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenNtfsDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenNtfsDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenPartitionDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenPartitionDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenRuntime.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenRuntime.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenUsbKbDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenUsbKbDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/OpenVariableRuntimeDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/OpenVariableRuntimeDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Ps2KeyboardDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Ps2KeyboardDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Ps2MouseDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Ps2MouseDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/RamDiskDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/RamDiskDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/ResetNvramEntry.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/ResetNvramEntry.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/RngDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/RngDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/SnpDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/SnpDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/TcpDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/TcpDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/TlsDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/TlsDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/ToggleSipEntry.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/ToggleSipEntry.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Udp4Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Udp4Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/Udp6Dxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/Udp6Dxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/UefiPxeBcDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/UefiPxeBcDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/UsbMouseDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/UsbMouseDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Drivers/XhciDxe.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Drivers/XhciDxe.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/OpenCore.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/OpenCore.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/BootKicker.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/BootKicker.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ChipTune.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ChipTune.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/CleanNvram.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/CleanNvram.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ControlMsrE2.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ControlMsrE2.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/CsrUtil.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/CsrUtil.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/FontTester.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/FontTester.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/GopStop.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/GopStop.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/KeyTester.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/KeyTester.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ListPartitions.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ListPartitions.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/MmapDump.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/MmapDump.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/OpenControl.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/OpenControl.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/OpenShell.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/OpenShell.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/ResetSystem.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/ResetSystem.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/RtcRw.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/RtcRw.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/Tools/TpmInfo.efi" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/Tools/TpmInfo.efi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EFI/OC/config.plist" beforeDir="false" afterPath="$PROJECT_DIR$/EFI/OC/config.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2tHAqpuRiTqowzv7Sd6X49JKmX5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "sequia",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vladgolyachenko/projects/EFI-ASUS-ROG-STRIX-Z690-G-I9-12900K-RX6800XT",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c88afa00-4ed7-4ed8-bc23-01dfa9b76e2a" name="Changes" comment="" />
+      <created>1739998821048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739998821048</updated>
+      <workItem from="1739998822710" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
