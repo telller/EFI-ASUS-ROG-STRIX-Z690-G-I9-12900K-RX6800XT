@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c88afa00-4ed7-4ed8-bc23-01dfa9b76e2a" name="Changes" comment="" />
+    <list default="true" id="c88afa00-4ed7-4ed8-bc23-01dfa9b76e2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "telller"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/telller/EFI-ASUS-ROG-STRIX-Z690-G-I9-12900K-RX6800XT.git",
+    "accountId": "3f7ffc25-33f9-465b-bed4-bf4c35ab7044"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -51,10 +65,10 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1767808831037" />
-    <option name="spentUsd" value="0.00234825" />
+    <option name="spentUsd" value="0.0157086" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="9" />
+    <option name="suspendCountdown" value="5" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -73,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739998821048</updated>
       <workItem from="1739998822710" duration="48000" />
-      <workItem from="1767532082222" duration="614000" />
+      <workItem from="1767532082222" duration="2888000" />
     </task>
     <servers />
   </component>
